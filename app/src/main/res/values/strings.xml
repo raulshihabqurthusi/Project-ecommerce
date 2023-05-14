@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project e-commerce</string>
+
+    <string name="prompt">Choose a country</string>
+
+    <string-array name="dropdownCategory">
+        <item>Pakaian</item>
+        <item>Elektronik</item>
+        <item>Peralatan Rumah Tangga</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
